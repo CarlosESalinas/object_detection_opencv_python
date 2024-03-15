@@ -42,5 +42,3 @@ Finalmente, pondremos a prueba nuestro modelo utilizando imágenes de muestra y 
 
 ## Conclusión
 En resumen, esta guía proporciona una visión completa del proceso de detección de objetos en imágenes con Python y OpenCV. Con el código completo disponible en nuestro repositorio de GitHub, los lectores pueden explorar más a fondo y ampliar el proyecto para aplicaciones más complejas de detección de objetos.
-
-¡Esperamos que esta guía te ayude a comprender y aplicar eficazmente la detección de objetos en tus proyectos!
